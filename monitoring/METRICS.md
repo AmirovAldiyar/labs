@@ -1,3 +1,3 @@
 # Metrics
 ## Prometheus screenshot
-![screenshot](./prometheus.png)
+![screenshot](./metrics.png)
